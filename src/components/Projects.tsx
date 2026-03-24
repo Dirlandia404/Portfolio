@@ -1,38 +1,43 @@
 import "../styles/Projects.css";
 
+// Importando as imagens diretamente
+import BookImage from "../assets/book.png";
+import PomodoroImage from "../assets/pomodor.png";
+import NlwImage from "../assets/nlw.png";
+
 function Projects() {
   const projetos = [
     {
       nome: "Loja de Livros",
-      imagem: "src/assets/book.png",
+      imagem: BookImage, // Imagem importada
       link: "https://dirlandia404.github.io/Loja-Livros/",
       github: "https://github.com/Dirlandia404/Loja-Livros",
       tecnologias: ["HTML", "CSS", "JavaScript"],
     },
     {
       nome: "Pomodoro Timer",
-      imagem: "src/assets/pomodor.png",
+      imagem: PomodoroImage, // Imagem importada
       link: "https://pomodoro-nine-drab.vercel.app/",
       github: "https://github.com/Dirlandia404/Pomodoro-Timer",
       tecnologias: ["React", "JavaScript", "CSS"],
     },
     {
       nome: "NLW Unite",
-      imagem: "src/assets/nlw.png",
+      imagem: NlwImage, // Imagem importada
       link: "https://nlw-unite-nu.vercel.app/",
       github: "https://github.com/Dirlandia404/NLW-Unite",
       tecnologias: ["React", "Node.js", "TypeScript"],
     },
     {
       nome: "Loja de Livros",
-      imagem: "src/assets/book.png",
+      imagem: BookImage, // Imagem importada
       link: "https://dirlandia404.github.io/Loja-Livros/",
       github: "https://github.com/Dirlandia404/Loja-Livros",
       tecnologias: ["HTML", "CSS", "JavaScript"],
     },
     {
       nome: "Pomodoro Timer",
-      imagem: "src/assets/pomodor.png",
+      imagem: PomodoroImage, // Imagem importada
       link: "https://pomodoro-nine-drab.vercel.app/",
       github: "https://github.com/Dirlandia404/Pomodoro-Timer",
       tecnologias: ["React", "JavaScript", "CSS"],

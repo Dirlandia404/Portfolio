@@ -1,49 +1,4 @@
 import "../styles/Technologies.css";
-<<<<<<< HEAD
-
-function Technologies() {
-  const tecnologias = [
-    { nome: "React", imagem: "src/assets/tecnologias/react.png", estrelas: 5 },
-    {
-      nome: "Node.js",
-      imagem: "src/assets/tecnologias/node.png",
-      estrelas: 4,
-    },
-    {
-      nome: "JavaScript",
-
-      imagem: "src/assets/tecnologias/js.png",
-      estrelas: 5,
-    },
-    {
-      nome: "TypeScript",
-      imagem: "src/assets/tecnologias/ts.png",
-      estrelas: 4,
-    },
-    {
-      nome: "Python",
-      imagem: "src/assets/tecnologias/python.png",
-      estrelas: 3,
-    },
-    { nome: "PHP", imagem: "src/assets/tecnologias/php.png", estrelas: 4 },
-    {
-      nome: "Docker",
-      imagem: "src/assets/tecnologias/docker.png",
-      estrelas: 3,
-    },
-    { nome: "GraphQL", imagem: "src/assets/tecnologias/gra.png", estrelas: 4 },
-    {
-      nome: "Next.js",
-      imagem: "src/assets/tecnologias/nextt.png",
-      estrelas: 4,
-    },
-    { nome: "Java", imagem: "src/assets/tecnologias/java.png", estrelas: 3 },
-    {
-      nome: "spring",
-      imagem: "src/assets/tecnologias/spring.png",
-      estrelas: 3,
-    },
-=======
 import ReactImage from "../assets/tecnologias/react.png";
 import NodeImage from "../assets/tecnologias/node.png";
 import JsImage from "../assets/tecnologias/js.png";
@@ -69,7 +24,6 @@ function Technologies() {
     { nome: "Next.js", imagem: NextImage, estrelas: 4 },
     { nome: "Java", imagem: JavaImage, estrelas: 3 },
     { nome: "Spring", imagem: SpringImage, estrelas: 3 },
->>>>>>> gh-pages
   ];
 
   return (
