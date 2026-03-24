@@ -16,20 +16,20 @@ function About() {
       <p>
         Minha carreira começou no <strong>VTEX Lab</strong>, onde tive o prazer
         de colaborar em projetos de customização de e-commerce. Lá, mergulhei de
-        cabeça no mundo do <strong>React</strong>, <strong>Node.js</strong>e{" "}
+        cabeça no mundo do <strong>React</strong>, <strong>Node.js</strong> e{" "}
         <strong>GraphQL</strong>, aprendendo a criar soluções rápidas e
         eficientes para um público exigente. Depois, passei pela{" "}
         <strong>OKN</strong> e <strong>Fiotec</strong>, onde pude aplicar meu
         conhecimento em
-        <strong>backend</strong> e <strong>front-end</strong>, liderando
+        <strong> backend</strong> e <strong>front-end</strong>, liderando
         equipes, orientando novos desenvolvedores e, claro, criando soluções que
         realmente fazem a diferença.
       </p>
       <p>
         Trabalho com tecnologias como <strong>JavaScript</strong>,{" "}
         <strong>TypeScript</strong>, <strong>React.js</strong>,
-        <strong>Node.js</strong>, <strong>Python</strong>, <strong>PHP</strong>,
-        e <strong>Docker</strong>. Também sou fã de
+        <strong>Node.js </strong>, <strong>Python</strong>, <strong>PHP</strong>
+        , e <strong>Docker</strong>. Também sou fã de
         <strong> SEO</strong> e <strong>performance</strong>, sempre me
         certificando de que os projetos em que trabalho não são apenas
         funcionais, mas também oferecem uma experiência incrível para o usuário.
