@@ -3,6 +3,7 @@ import "../styles/Projects.css";
 // Importando as imagens diretamente
 import BookImage from "../assets/book.png";
 import PomodoroImage from "../assets/pomodor.png";
+import Lara from "../assets/lara.png";
 import NlwImage from "../assets/nlw.png";
 
 function Projects() {
@@ -15,11 +16,11 @@ function Projects() {
       tecnologias: ["HTML", "CSS", "JavaScript"],
     },
     {
-      nome: "Pomodoro Timer",
-      imagem: PomodoroImage, // Imagem importada
-      link: "https://pomodoro-nine-drab.vercel.app/",
-      github: "https://github.com/Dirlandia404/Pomodoro-Timer",
-      tecnologias: ["React", "JavaScript", "CSS"],
+      nome: "Lara",
+      imagem: Lara, // Imagem importada
+      link: "https://lara-five.vercel.app/",
+      github: "https://github.com/Dirlandia404/Lara",
+      tecnologias: ["React", "JavaScript", "SCSS"],
     },
     {
       nome: "NLW Unite",
